@@ -1,9 +1,9 @@
 {
-	"name": "@robertakarobin/util",
-	"version": "0.0.2",
+	"name": "@geneticure/util",
+	"version": "0.0.4",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/RobertAKARobin/util"
+		"url": "https://github.com/geneticure/util"
 	},
 	"scripts": {
 		"lint": "eslint ."
