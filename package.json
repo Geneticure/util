@@ -1,13 +1,4 @@
 {
-	"name": "@geneticure/util",
-	"version": "0.0.4",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/geneticure/util"
-	},
-	"scripts": {
-		"lint": "eslint ."
-	},
 	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.40.0",
 		"@typescript-eslint/parser": "^5.40.0",
@@ -20,5 +11,14 @@
 	},
 	"devDependencies": {
 		"husky": "^8.0.1"
-	}
+	},
+	"name": "@geneticure/util",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/geneticure/util"
+	},
+	"scripts": {
+		"lint": "eslint ."
+	},
+	"version": "0.0.5"
 }
